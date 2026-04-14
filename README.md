@@ -10,7 +10,6 @@
 
 ### Main skills:
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)&nbsp;
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)&nbsp;
 ![SQL Server](https://img.shields.io/badge/SQL_Server-000?style=for-the-badge&logo=microsoftsqlserver)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)&nbsp;
