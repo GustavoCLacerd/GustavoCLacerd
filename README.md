@@ -1,14 +1,21 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Conceição+Lacerda;I'm+23+years+old;I+am+from+São+Paulo,+SP;I+study+Analysis+and+Systems+Development+at+FATEC-ZL;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Gustavo+Conceição+Lacerda;I'm+24+years+old;I+am+from+São+Paulo,+SP;I+study+Analysis+and+Systems+Development+at+FATEC-ZL;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-<a href="https://www.linkedin.com/in/gustavo-conceição-lacerda-938bb529a" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/gustavo-conceição-lacerda-938bb529a" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 </div> 
- 
+
 ### Main skills:
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)&nbsp;
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)&nbsp;
+![SQL Server](https://img.shields.io/badge/SQL_Server-000?style=for-the-badge&logo=microsoftsqlserver)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)&nbsp;
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
- 
+
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
